@@ -1,0 +1,5 @@
+1. Create SSH key
+2. ssh-add (created key)
+3. create ssh config
+4. Add a new host in config
+5. Create a new remote using the newly created host name
